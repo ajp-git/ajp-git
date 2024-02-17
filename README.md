@@ -5,7 +5,7 @@ From the foundational days of 6502, 68000, and i386 assembly to high-level langu
 
 **My Coding Saga**
 Early Days: I honed my skills on a variety of languages, tackling complex challenges and building a diverse portfolio of projects.
-Leadership Era: As a Project Manager, Director, and CIO, I led teams to deliver innovative tech solutions.
+**Leadership Era**: As a Project Manager, Director, and CIO, I led teams to deliver innovative tech solutions.
 
 **Today** I'm a Rust enthusiast, contributing to open-source projects and solving problems with precision and efficiency.
 
