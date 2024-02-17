@@ -12,8 +12,10 @@ Early Days: I honed my skills on a variety of languages, tackling complex challe
 
 **Continuous Learning**
 🧩 Codewars & Advent of Code: I sharpen my skills through coding challenges, learning new algorithms, and refining my problem-solving techniques.
+
 📈 **Mentorship**:
 I use my experience to mentor others, sharing insights gained from decades in the industry.
+
 **My Vision for the Future**
 I'm driven by the thrill of problem-solving and the satisfaction of writing clean, efficient code. I see a future where Rust plays a pivotal role in developing safe and scalable systems. I'm eager to collaborate on projects that are at the forefront of technology, pushing the envelope and driving innovation.
 
